@@ -19,7 +19,7 @@ The workflow includes:
 
 ## Dataset
 
-The project uses two CSV files:
+The project uses two CSV files from Kaggle - https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 
 * `Fake.csv` – Contains fake news articles
 * `True.csv` – Contains real news articles
